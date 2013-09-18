@@ -1,3 +1,3 @@
 <?
-echo 'Hello World! Puta Merda';
+echo 'Hello World! ok';
 ?>
